@@ -12,10 +12,16 @@ public class Jarra { //atributos
 	 }
 	 // metodos
 	 // 1
-	 // 2
+	 public int capacidad(){
+		return this.capacidad;
+	   }
+	   public int cantidad(){
+		return this.cantidad;
+	   }
 	 // 3
 	 public void metodoComunitario(){
 	 // Comentario incluido para pruebas
 	 System.out.println("Aqui escribimos todos");
 	 }
+	 
 }
