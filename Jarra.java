@@ -44,6 +44,8 @@ public class Jarra { //atributos
 
 	 public void metodoComunitario(){
 	 // Comentario incluido para pruebas
+	 // Raúl Obrero Berlanga
+	 // Miguel Ángel Ruíz Villarrazo
 	 System.out.println("Aqui escribimos todos");
 	 }
 	 
