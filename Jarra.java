@@ -46,6 +46,7 @@ public class Jarra { //atributos
 	 // Comentario incluido para pruebas
 	 // Raúl Obrero Berlanga
 	 // Miguel Ángel Ruíz Villarrazo
+	 // Claudia Vega Rodríguez
 	 System.out.println("Aqui escribimos todos");
 	 }
 	 
